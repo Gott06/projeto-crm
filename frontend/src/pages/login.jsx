@@ -22,7 +22,7 @@ function Login() {
 
     setTimeout(() => {
 
-      if (email === "teste@email.com" && senha === "teste") {
+      if (email === "teste@gmail.com" && senha === "teste") {
 
         login(email)
         navigate("/home")
